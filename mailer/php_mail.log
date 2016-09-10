@@ -1,0 +1,4 @@
+[07-Aug-2016 22:42:47 CST6CDT] mail() on [/home/shardars/public_html/mailer/sendmail.php:61]: To: mpantojan@gmail.com -- Headers: From: do-not-reply@shardarsp.com  Reply-To: webmaster@example.com  X-Mailer: PHP/5.6.24
+[07-Aug-2016 23:47:37 CST6CDT] mail() on [/home/shardars/public_html/mailer/send-request-for-quote.php:66]: To: mpantojan@gmail.com -- Headers: From: do-not-reply@shardarsp.com  Reply-To: webmaster@example.com  X-Mailer: PHP/5.6.24
+[07-Aug-2016 23:47:56 CST6CDT] mail() on [/home/shardars/public_html/mailer/send-request-for-quote.php:66]: To: mpantojan@gmail.com -- Headers: From: do-not-reply@shardarsp.com  Reply-To: webmaster@example.com  X-Mailer: PHP/5.6.24
+[07-Aug-2016 23:49:13 CST6CDT] mail() on [/home/shardars/public_html/mailer/send-request-for-quote.php:66]: To: mpantojan@gmail.com -- Headers: From: do-not-reply@shardarsp.com  Reply-To: webmaster@example.com  X-Mailer: PHP/5.6.24
